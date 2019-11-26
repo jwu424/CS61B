@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - disc1",
+            "request": "launch",
+            "mainClass": "disc1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HelloNumbers",
             "request": "launch",
             "mainClass": "HelloNumbers"
