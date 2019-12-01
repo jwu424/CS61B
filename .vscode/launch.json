@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DogLoop",
+            "request": "launch",
+            "mainClass": "DogLoop"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BreakContinue",
             "request": "launch",
             "mainClass": "BreakContinue"
