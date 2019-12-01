@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StdDrawDemo",
+            "request": "launch",
+            "mainClass": "StdDrawDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BasicInDemo",
+            "request": "launch",
+            "mainClass": "BasicInDemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DogLoop",
             "request": "launch",
             "mainClass": "DogLoop"
